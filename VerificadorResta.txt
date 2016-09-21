@@ -1,0 +1,1 @@
+En este archivo compara ambos numeros . Si el primer numero es inferior al que se le va a aplicar la fecha saldra un mensaje 
